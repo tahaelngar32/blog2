@@ -8,6 +8,8 @@
         @endif
         <form wire:poll.1s wire:submit.prevent="submit">
 
+
+
             <div class="row mb-3">
                 <div class="col-4">
                     <label for="name" class=" form-label fw-bold">اسم طالب الحجز</label>
